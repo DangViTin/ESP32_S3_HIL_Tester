@@ -1,0 +1,3 @@
+https://github.com/openfablab/mcp4728/tree/master
+https://github.com/elschopi/TI_INA226_micropython
+https://github.com/robert-hh/ads1x15
