@@ -21,8 +21,8 @@ Powered by the ESP32-S3 SoC with WiFi and BLE connectivity, the tester is housed
 - **Enclosure**: Fully 3D-printed using a Bambu Lab A1 Mini with PETG filament for durability and portability.
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="Pictures/3d_2.png" width="50%">
-  <img src="Pictures/3d_1.png" width="50%">
+  <img src="Pictures/3d_2.png" width="45%">
+  <img src="Pictures/3d_1.png" width="45%">
 </div>
 
 ## Circuit Design
@@ -44,8 +44,8 @@ Powered by the ESP32-S3 SoC with WiFi and BLE connectivity, the tester is housed
 ![PCB Top View](Pictures/top1.jpg "Top view of the assembled PCB")
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="Pictures/top2.jpg" width="50%">
-  <img src="Pictures/side.jpg" width="50%">
+  <img src="Pictures/top2.jpg" width="45%">
+  <img src="Pictures/side.jpg" width="45%">
 </div>
 
 ## Firmware
