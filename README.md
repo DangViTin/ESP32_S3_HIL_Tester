@@ -13,16 +13,15 @@ Powered by the ESP32-S3 SoC with WiFi and BLE connectivity, the tester is housed
 - **Industrial Interfaces**: Features CAN (SN65HVD230) and RS485 (SP3485) transceivers for robust communication.
 - **Temperature Sensing**: Dual temperature sensor ports for environmental monitoring.
 
-![_](Pictures/drawio.png)
-
+<img src="Pictures/drawio.png" style="width: 100%;">
 ## Mechanical Design
 
 - **Design Tool**: Created using Fusion 360.
 - **Enclosure**: Fully 3D-printed using a Bambu Lab A1 Mini with PETG filament for durability and portability.
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="Pictures/3d_2.png" style="width: 49.5%; height: 310px; object-fit: contain;">
-  <img src="Pictures/3d_1.png" style="width: 49.5%; height: 310px; object-fit: contain;">
+  <img src="Pictures/3d_2.png" style="width: 49%; height: 310px; object-fit: contain;">
+  <img src="Pictures/3d_1.png" style="width: 49%; height: 310px; object-fit: contain;">
 </div>
 
 ## Circuit Design
